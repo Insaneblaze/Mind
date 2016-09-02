@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Mind" easy_mode="0" editor_skin="ips" author_name="" author_url="" version="" long_version="101053" update_check="">
+ <logo type="front" name="logo.jpg">/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMxaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzA2NyA3OS4xNTc3NDcsIDIwMTUvMDMvMzAtMjM6NDA6NDIgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE1IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkI1NjlBQUY5NjBCRjExRTZBMDRCQUJBQjRCNENEMDI1IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkI1NjlBQUZBNjBCRjExRTZBMDRCQUJBQjRCNENEMDI1Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QjU2OUFBRjc2MEJGMTFFNkEwNEJBQkFCNEI0Q0QwMjUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QjU2OUFBRjg2MEJGMTFFNkEwNEJBQkFCNEI0Q0QwMjUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAABAQEBAQEBAQEBAQEB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</logo>
+ <logo type="sharer" name="sharer.png">iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAIAAAD2HxkiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDplMWNlMjBhYy03NDkwLTQwNTMtOWE5MC03NjdiMzM2OThiMjQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDNDNTQ5RkI2MEM0MTFFNkEwNEJBQkFCNEI0Q0QwMjUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDNDNTQ5RkE2MEM0MTFFNkEwNEJBQkFCNEI0Q0QwMjUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4ZTYzNDE4NC0zYWZlLTQ5YzAtODFlYi1lMDE5MTc2OTEzMWEiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDozMDM5ZDE1Yy1hNjY5LTExNzktYWM1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</logo>
+ <logo type="favicon" name="favicon.ico">AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8B////Af///wH///8B////AUg5yXlIOcnfSDnJ50g5yeVIOcnlSDnJ2Ug5yZP///8B////Af///wH///8B////Af///wH///8B////Af///wFIOcnHSDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcnbSDnJA////wH///8B////Af///wH///8B////Af///wH///8BSDnJyUg5yf9IOcn/SDnJ/0g5yf9IOcn/SDnJ9Ug5yR////8B////Af///wH///8B////AYiAxA2Ee8I50M3oa0g5yT1IOcn7SDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcnBSDnJe0g5yU1IOckDiIDEJYiAxMWIgMTdhX3D+ZCKyf3y8fg3SDnJi0g5yf9IOcn/SDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcnzSDnJE4eBxUWIgMT/iIDE/4iAxP+AecH/r6rYy4yA3hNIOcnVSDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcn/SDnJ7Ug5ySGHgcVriIDE/4iAxP+IgMT/h3/E/4F6wv/W0+p9SDnJQ0g5yf1IOcn/SDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcl/iIDEcYiAxP+IgMT/iIDE/4iAxP+DfML/k4zK9fTz+S1IOcmRSDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcn/SDnJg4iAxKOIgMT/iIDE/4iAxP+IgMT/iIDE/394wP+zrtrBZ1jSE0g5yd1IOcn/SDnJ/0g5yf9IOcn/SDnJ/0g5yeWIgMSPiIDE/4iAxP+IgMT/iIDE/4iAxP+GgMT/gnvC/9rX7HFIOclJSDnJ/0g5yf9IOcn/SDnJ/0g5yf9IOcmJ////AYiAxGGIgMT7iIDE/4iAxP+IgMT/iIDE/4R7wv+Wj8vx9PT6J0g5yZtIOcn/SDnJ/0g5yf9IOcmX////Af///wGIgMQLiIDE64iAxP+IgMT/iIDE/4iAxP+IgMT/f3jA/7ey3LdIOckTSDnJ4Ug5yf9IOcn/SDnJQf///wH///8BiIDEC4iAxNmHgcT/iIDE/4iAxP+IgMT/iIDE/4d/xP+FfMP/3tzvaUg5yVNIOcn/SDnJ/0g5yUP///8B////Af///wGIgMSdiIDE/4iAxP+IgMT/iIDE/4iAxP+IgMT/gnvC/5mTze35+fwjSDnJsUg5yeVIOckL////Af///wH///8Bh4HFN4iAxM+IgMT/iIDE/4iAxP+IgMT/iIDE/4eBxP9/eMD/vLbevUg5ySdIOclX////Af///wH///8B////Af///wGIgMQNiIDEXYiAxKWIgMTHiIDE34iAxOmIgMTph3/E0YV/xJf///8B////Af///wH///8BAAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//w==</logo>
+ <app key="core" version="101053">
+  <template template_group="global" template_name="footer" template_data="" template_location="front"><![CDATA[{{if ( \IPS\Settings::i()->site_online || \IPS\Member::loggedIn()->group['g_access_offline'] ) and ( \IPS\Dispatcher::i()->application instanceof \IPS\Application AND \IPS\Dispatcher::i()->application->canAccess() )}}
+<ul class='ipsList_inline ipsType_center' id="elFooterLinks">
+	{{$languages = \IPS\Lang::getEnabledLanguages();}}
+	{{if count( $languages ) > 1}}
+		<li>
+			<a href='#elNavLang_menu' id='elNavLang' data-ipsMenu data-ipsMenu-above>{lang='language'} <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavLang_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			{{foreach $languages as $id => $lang }}
+				<li class='ipsMenu_item{{if \IPS\Member::loggedIn()->language()->id == $id || ( $lang->default && \IPS\Member::loggedIn()->language === 0 )}} ipsMenu_itemChecked{{endif}}'>
+					<form action="{url="app=core&module=system&controller=language" noprotocol="true" csrf="true" seoTemplate="language"}" method="post">
+					<button type='submit' name='id' value='{$id}' class='ipsButton ipsButton_link'>{{if $lang->get__icon()}}<i class='{$lang->get__icon()}'></i> {{endif}}{$lang->title} {{if $lang->default}}{lang="default"}{{endif}}</button>
+					</form>
+				</li>
+			{{endforeach}}
+			</ul>
+		</li>
+	{{endif}}
+	{{$themes = \IPS\Theme::getThemesWithAccessPermission();}}
+	{{if count ( $themes ) > 1 }}
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>{lang='skin'} <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			{{foreach $themes as $id => $set }}
+				{{if $set->canAccess()}}
+					<li class='ipsMenu_item{{if \IPS\Theme::i()->id == $id}} ipsMenu_itemChecked{{endif}}'>
+						<form action="{url="app=core&module=system&controller=theme" noprotocol="true" csrf="true" seoTemplate="theme"}" method="post">
+						<button type='submit' name='id' value='{$id}' class='ipsButton ipsButton_link'>{lang="$set->_title"} {{if $set->is_default}}{lang="default"}{{endif}}</button>
+						</form>
+					</li>
+				{{endif}}
+			{{endforeach}}
+			</ul>
+		</li>
+	{{endif}}
+	{{if \IPS\Settings::i()->privacy_type != "none"}}
+		<li><a href='{{if \IPS\Settings::i()->privacy_type == "internal"}}{url="app=core&module=system&controller=privacy" seoTemplate="privacy"}{{else}}{setting="privacy_link"}{{endif}}'>{lang="privacy"}</a></li>
+	{{endif}}
+	{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'contact' ) ) and !( \IPS\Dispatcher::i()->application->directory == 'core' and \IPS\Dispatcher::i()->module and \IPS\Dispatcher::i()->module->key == 'contact' )}}
+		<li><a href='{url="app=core&module=contact&controller=contact" seoTemplate="contact"}' data-ipsdialog data-ipsDialog-remoteSubmit data-ipsDialog-flashMessage='{lang="contact_sent_blurb"}' data-ipsdialog-title="{lang="contact"}">{lang='contact'}</a></li>
+	{{endif}} 
+{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}  
+<a title='xander.cl' target="_blank" class='xander_copyright' href="http://xander.cl/">Theme by xander</a>
+{{endif}}  
+</ul>	
+{{if \IPS\Dispatcher::i()->application instanceof \IPS\Application AND \IPS\Dispatcher::i()->application->canManageWidgets()}}
+	<button type='button' id='elWidgetControls' data-action='openSidebar' data-ipsTooltip title='{lang="manage_blocks"}' class='ipsButton ipsButton_primary ipsButton_narrow'><i class='fa fa-chevron-right'></i></button>
+{{endif}}
+{{endif}}]]></template>
+  <template template_group="global" template_name="globalTemplate" template_data="$title,$html,$location=array()" template_location="front"><![CDATA[<!DOCTYPE html>
+<html lang="{expression="\IPS\Member::loggedIn()->language()->bcp47()"}" dir="{{if member.language()->isrtl}}rtl{{else}}ltr{{endif}}">
+	<head>
+		<title>{expression="output.getTitle( $title )"}</title>
+		<!--[if lt IE 9]>
+			{{foreach \IPS\Theme::i()->css( 'extra/ie8.css', 'core' ) as $css}}<link rel="stylesheet" type="text/css" href="{$css}">{{endforeach}}
+		    <script src="{url="applications/core/interface/html5shiv/html5shiv.js" base="none" protocol="\IPS\Http\Url::PROTOCOL_RELATIVE"}"></script>
+		<![endif]-->
+		{template="includeMeta" app="core" group="global" location="global" params=""}
+		{template="includeCSS" app="core" group="global" location="global" params=""}
+		{template="includeJS" if="theme.js_include != 'footer'" app="core" group="global" location="global" params=""}
+		{template="favico" app="core" group="global" location="front" params=""}
+      
+<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">     
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,500" rel="stylesheet"> 
+      
+	</head>
+	<body class='ipsApp ipsApp_front {{if isset( \IPS\Request::i()->cookie['hasJS'] )}}ipsJS_has{{else}}ipsJS_none{{endif}} ipsClearfix{{foreach output.bodyClasses as $class}} {$class}{{endforeach}}' {{if output.globalControllers}}data-controller='{expression="implode( ',', output.globalControllers )"}'{{endif}} {{if isset( output.inlineMessage )}}data-message="{expression="output.inlineMessage"}"{{endif}} data-pageApp='{$location['app']}' data-pageLocation='front' data-pageModule='{$location['module']}' data-pageController='{$location['controller']}' itemscope itemtype="http://schema.org/WebSite">
+		<meta itemprop="url" content="{setting="base_url"}">
+		<a href='#elContent' class='ipsHide' title='{lang="jump_to_content_desc"}' accesskey='m'>{lang="jump_to_content"}</a>
+		{template="offlineMessage" if="!settings.site_online && \IPS\Member::loggedIn()->group['g_access_offline']" app="core" group="global" params=""}
+		<div id='ipsLayout_header' class='ipsClearfix'>
+			{template="updateWarning" app="core" group="global" params=""}
+			{template="lkeyWarning" app="core" group="global" location="global" params=""}
+			{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}{template="mobileNavBar" app="core" group="global" params=""}{{endif}}
+			<header>
+				<div class='ipsLayout_container'>
+                  {{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}  
+					{template="logo" app="core" group="global" params=""}
+                  {{endif}}
+					{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}{template="userBar" app="core" group="global" params=""}{{endif}}
+				</div>
+			</header>
+			{template="navBar" app="core" group="global" params=""}
+          
+
+{{if \IPS\Member::loggedIn()->member_id }}          
+{{else}}          
+{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}          
+<div class='site_welcome'>
+  <h3>Welcome to our site</h3>
+  <p>Take a moment to join us, minds are waiting for you.</p>
+  <div class='reglog'>
+    <a class='login' href="{url="app=core&module=system&controller=login" seoTemplate="login" protocol="\IPS\Settings::i()->logins_over_https"}">Login</a>
+    <a class='register' href="{url="app=core&module=system&controller=register" seoTemplate="register"}">Register</a>
+  </div>  
+</div>
+{{endif}}  
+{{endif}}
+          
+		</div>
+		<main role='main' id='ipsLayout_body' class='ipsLayout_container'>
+			<div id='ipsLayout_contentArea'>
+				<div id='ipsLayout_contentWrapper'>
+					{template="breadcrumb" app="core" group="global" params="true, 'top'"}
+					{template="sidebar" if="theme.sidebar_position == 'left'" app="core" group="global" params="'left'"}
+					<div id='ipsLayout_mainArea'>
+						<a id='elContent'></a>
+						{advertisement="ad_global_header"}
+						{template="acknowledgeWarning" if="\IPS\Member::loggedIn()->members_bitoptions['unacknowledged_warnings']" params="\IPS\Member::loggedIn()->warnings( 1, FALSE )" group="global" app="core"}
+						{template="widgetContainer" group="global" app="core" params="'header', 'horizontal'"}
+						{$html|raw}
+						{template="widgetContainer" group="global" app="core" params="'footer', 'horizontal'"}
+					</div>
+					{template="sidebar" if="theme.sidebar_position == 'right'" app="core" group="global" params="'right'"}
+					{template="breadcrumb" app="core" group="global" params="false, 'bottom'"}
+				</div>
+			</div>
+			{template="inlineMessage" if="member.msg_show_notification and $conversation = \IPS\core\Messenger\Conversation::latestUnreadConversation()" app="core" group="global" params="$conversation->comments( 1, 0, 'date', 'desc' )"}
+		</main>
+
+      
+{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}       
+<footer id='ipsLayout_footer' class='ipsClearfix'>  
+<div class='footer_content'>
+<div class='ipsLayout_container'>
+
+              
+<!-- Footer -->    
+<div class='mind_footer'>
+<div class='ipsGrid ipsGrid_collapsePhone'>
+  
+  <!-- Team -->
+<div class='ipsGrid_span4 Mblocks'>
+<h3>Our Support Team</h3>
+  <p>Meet the team, we are ready to help.</p>
+<br />
+<div class='ftpad'>
+<div class='footer_team ipsGrid'>
+
+
+<!-- Team list - Just change the number with the profile number you want to use -->  
+ 
+<!-- member 1 -->
+{template="userPhoto" group="global" app="core" params="\IPS\Member::load( 3 )"}
+<!-- end member 1 -->
+
+<!-- member 2 -->
+{template="userPhoto" group="global" app="core" params="\IPS\Member::load( 4 )"}
+<!-- end member 2 -->
+  
+<!-- member 3 -->
+{template="userPhoto" group="global" app="core" params="\IPS\Member::load( 5 )"}
+<!-- end member 3 -->
+  
+<!-- member 4 -->
+{template="userPhoto" group="global" app="core" params="\IPS\Member::load( 6 )"}
+<!-- end member 4 -->
+  
+<!-- member 5 -->
+{template="userPhoto" group="global" app="core" params="\IPS\Member::load( 7 )"}
+<!-- end member 5 -->
+  
+<!-- member 6 -->
+{template="userPhoto" group="global" app="core" params="\IPS\Member::load( 9 )"}
+<!-- end member 6 -->  
+  
+<!-- End Team List -->
+ 
+  
+</div>
+</div>
+<div class='button_more ipsClearfix'><a href='{url="/staff" seoTemplate="staff"}'>View Full List</a></div>
+</div>
+  <!-- End Team -->
+  
+  <!-- Social -->
+  <div class='ipsGrid_span4 Mblocks'>
+    <h3>Social Network</h3>
+    <p>Get social! We are everywhere.</p>
+    <br />
+  <div class='footer_social ipsGrid'>
+    <div class='ipsGrid_span6'><a href="#" target="_blank"><i class="fa fa-facebook"></i>Facebook</a></div>  
+    <div class='ipsGrid_span6'><a href="#" target="_blank"><i class="fa fa-twitter"></i>Twitter</a></div>  
+    <div class='ipsGrid_span6'><a href="#" target="_blank"><i class="fa fa-google-plus"></i>Google +</a></div>  
+    <div class='ipsGrid_span6'><a href="#" target="_blank"><i class="fa fa-youtube"></i>Youtube</a></div>  
+    <div class='ipsGrid_span6'><a href="#" target="_blank"><i class="fa fa-instagram"></i>Instagram</a></div>  
+    <div class='ipsGrid_span6'><a href="#" target="_blank"><i class="fa fa-linkedin"></i>Linkedin</a></div> 
+  </div>
+    
+  </div>
+  <!-- End Social -->
+  
+  
+  <!-- Us -->
+<div class='about_us ipsGrid_span4 Mblocks'>
+  <h3>About Us</h3>
+  <p>Copyright <a href="#">Yoursite.com</a> 2016 ©
+    <br /><br />
+    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+    totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta 
+    sunt explicabo.</p>
+</div>
+  <!-- End Us -->
+  
+  
+  
+</div>  
+</div>
+<!-- End Footer -->   
+              
+</div>
+  
+<div class='footer_end'>
+<div class='ipsLayout_container'>
+{advertisement="ad_global_footer"}
+{template="footer" app="core" group="global" params=""}  
+</div>
+</div>  
+</div> 
+</footer>
+{{else}}
+<div class='ipsLayout_container footer_minimal'>
+{advertisement="ad_global_footer"}
+{template="footer" app="core" group="global" params=""}  
+</div>
+{{endif}}
+      
+      
+      
+      
+      
+		{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}{template="mobileNavigation" if="theme.responsive" app="core" group="global" params=""}{{endif}}
+		{template="includeJS" if="theme.js_include == 'footer'" app="core" group="global" location="global" params=""}
+		{{if settings.ipbseo_ga_enabled}}
+			{setting="ipseo_ga"}
+		{{endif}}
+		{template="viglink" if="settings.viglink_enabled" app="core" group="global" params=""}
+		{template="metaTagEditor" if="isset( $_SESSION['live_meta_tags'] ) and $_SESSION['live_meta_tags'] and member.isAdmin()" app="core" group="global" params=""}
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		{expression="output.endBodyCode" raw="true"}
+	</body>
+</html>]]></template>
+  <template template_group="global" template_name="navBar" template_data="$preview=FALSE" template_location="front"><![CDATA[{{if !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}
+<div class='general_nav'>	
+<nav class='ipsLayout_container' data-controller='core.front.core.navBar'>
+		<div class='ipsNavBar_primary {{if !count( \IPS\core\FrontNavigation::i()->subBars( $preview ) )}}ipsNavBar_noSubBars{{endif}} ipsClearfix'>
+			{{if !$preview and \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'search' ) ) AND !in_array('ipsLayout_minimal', \IPS\Output::i()->bodyClasses )}}
+				<div id='elSearch' class='ipsPos_right' data-controller='core.front.core.quickSearch' itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" data-default="{expression="\IPS\Output::i()->defaultSearchOption[0]"}">
+					<form accept-charset='utf-8' action='{url="app=core&module=search&controller=search" seoTemplate="search"}' method='{{if settings.use_friendly_urls and settings.htaccess_mod_rewrite}}get{{else}}post{{endif}}'>
+						<meta itemprop="target" content="{url="app=core&module=search&controller=search&q=" seoTemplate="search"}{q}">
+						<input type="hidden" name="type" value="{expression="\IPS\Output::i()->defaultSearchOption[0]"}" data-role="searchFilter">
+						<a href='#' id='elSearchFilter' data-ipsMenu data-ipsMenu-selectable='radio' data-ipsMenu-appendTo='#elSearch' class="ipsHide">
+							<span data-role='searchingIn'>
+								{expression="\IPS\Member::loggedIn()->language()->addToStack( \IPS\Output::i()->defaultSearchOption[1] )"}
+							</span>
+							<i class='fa fa-caret-down'></i>
+						</a>
+						<ul id='elSearchFilter_menu' class='ipsMenu ipsMenu_selectable ipsMenu_narrow ipsHide'>
+							<li class='ipsMenu_item {{if output.defaultSearchOption[0] == 'all'}}ipsMenu_itemChecked{{endif}}' data-ipsMenuValue='all'>
+								<a href='{url="app=core&module=search&controller=search" csrf="1"}' title='{lang="search_everything"}'>{lang="search_everything"}</a>
+							</li>
+							<li class='ipsMenu_sep'><hr></li>
+							{{if count( output.contextualSearchOptions )}}
+								{{foreach output.contextualSearchOptions as $name => $data}}
+									<li class='ipsMenu_item' data-ipsMenuValue='{expression="json_encode( $data )"}' data-options='{expression="json_encode( $data )"}'>
+										<a href='#'>{$name}</a>
+									</li>
+								{{endforeach}}
+								<li class='ipsMenu_sep'><hr></li>
+							{{endif}}
+							<li data-role='globalSearchMenuOptions'></li>
+							<li class='ipsMenu_item ipsMenu_itemNonSelect'>
+								<a href='{url="app=core&module=search&controller=search" seoTemplate="search"}' accesskey='4'><i class='fa fa-cog'></i> {lang="advanced_search"}</a>
+							</li>
+						</ul>
+						<input type='search' id='elSearchField' placeholder='{lang="search_placeholder"}' name='q' itemprop="query-input">
+						<button type='submit'><i class='fa fa-search'></i></button>
+					</form>
+				</div>
+			{{endif}}
+			<ul data-role="primaryNavBar" class='{{if !$preview}}ipsResponsive_showDesktop ipsResponsive_block{{endif}}'>
+				{template="navBarItems" app="core" group="global" location="front" params="\IPS\core\FrontNavigation::i()->roots( $preview ), \IPS\core\FrontNavigation::i()->subBars( $preview ), 0, $preview"}
+				<li class='ipsHide' id='elNavigationMore' data-role='navMore'>
+					<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore' id='elNavigationMore_dropdown'>{lang="more"}</a>
+					<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+						<li class='ipsHide' id='elNavigationMore_more' data-role='navMore'>
+							<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_more' id='elNavigationMore_more_dropdown'>{lang="more"} <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_more_dropdown_menu' data-role='moreDropdown'></ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</div>
+{{elseif member.group['g_view_board']}}
+	<nav class='ipsLayout_container'>
+		<div class='ipsNavBar_primary ipsNavBar_noSubBars ipsClearfix'>
+			<a id='elBackHome' href='{setting="base_url"}' title='{lang="go_community_home"}'><i class='fa fa-angle-left'></i> {lang="community_home"}</a></li>
+		</div>
+	</nav>
+{{endif}}]]></template>
+  <template template_group="global" template_name="userBar" template_data=" " template_location="front"><![CDATA[{{if \IPS\Member::loggedIn()->member_id }}
+	<ul id='elUserNav' class='ipsList_inline cSignedIn ipsClearfix ipsResponsive_showDesktop' data-controller='core.front.core.userbar{{if member.member_id && settings.auto_polling_enabled}},core.front.core.instantNotifications{{endif}}'>
+     
+      {{if !\IPS\Member::loggedIn()->restrict_post and count( \IPS\Member::loggedIn()->createMenu() )}}
+			<li id='cCreate'>
+				<a href='#elCreateNew_menu' id='elCreateNew' data-ipsTooltip data-ipsMenu title='{lang="create_menu_title"}'>
+				<i class="fa fa-pencil" aria-hidden="true"></i>
+				</a>
+				<div id='elCreateNew_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+					<ul>
+						{{foreach \IPS\Member::loggedIn()->createMenu() as $k => $url}}
+							<li class="ipsMenu_item">
+								<a href="{$url['link']}"
+								{{if isset( $url['extraData'] )}}
+									{{foreach $url['extraData'] as $data => $v}}
+										{$data}="{$v}"
+									{{endforeach}}
+								{{endif}}
+								{{if isset($url['title']) AND $url['title']}} data-ipsDialog-title='{lang="$url['title']"}'{{endif}}
+								{{if isset($url['flashMessage'])}} data-ipsdialog-flashmessage="{lang="$url['flashMessage']"}"{{endif}}
+								>{lang="$k"}</a>
+							</li>
+						{{endforeach}}
+					</ul>
+				</div>
+			</li>
+			<li class='elUserNav_sep'></li>
+		{{endif}}
+      
+<li id='find_people'>
+<a data-ipsTooltip title='Find People' href='{setting="base_url"}search/?q=&type=core_members'>
+<i class="fa fa-users" aria-hidden="true"></i>
+</a>
+</li>
+<li class='elUserNav_sep'></li>       
+      
+      
+		<li class='cNotifications cUserNav_icon'>
+			<a href='{url="app=core&module=system&controller=notifications" seoTemplate="notifications"}' id='elFullNotifications' data-ipsTooltip title='{lang="userbar_notifications"}' data-ipsMenu data-ipsMenu-closeOnClick='false'>
+				<i class='fa fa-bell'></i> <span class='ipsNotificationCount {{if !member.notification_cnt}}ipsHide{{endif}}' data-notificationType='notify' data-currentCount='{member="notification_cnt"}'>{member="notification_cnt"}</span>
+			</a>
+			<div id='elFullNotifications_menu' class='ipsMenu ipsMenu_wide ipsHide'>
+				<div class='ipsMenu_headerBar'>
+					<a href="{url="app=core&module=system&controller=notifications&do=options" seoTemplate="notifications_options"}" class="ipsType_light ipsPos_right"><i class="fa fa-cog"></i> {lang="notification_options"}</a>
+					<h4 class='ipsType_sectionHead'>{lang="notifications"}</h4>
+				</div>
+				<div class='ipsMenu_innerContent'>
+					<ol class='ipsDataList ipsDataList_readStatus' data-role='notifyList' data-ipsKeyNav data-ipsKeyNav-observe='return' id='elNotifyContent'></ol>
+				</div>
+				<div class='ipsMenu_footerBar ipsType_center'>
+					<a href='{url="app=core&module=system&controller=notifications" seoTemplate="notifications"}'><i class='fa fa-bars'></i> {lang="see_all_notifications"}</a>
+				</div>
+			</div>
+		</li>
+		{{if !\IPS\Member::loggedIn()->members_disable_pm and \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'messaging' ) )}}
+			<li class='cInbox cUserNav_icon'>
+				<a href='{url="app=core&module=messaging&controller=messenger" seoTemplate="messaging"}' id='elFullInbox' data-ipsTooltip title='{lang="userbar_messages"}' data-ipsMenu data-ipsMenu-closeOnClick='false'>
+					<i class='fa fa-envelope'></i> <span class='ipsNotificationCount {{if !\IPS\Member::loggedIn()->msg_count_new}}ipsHide{{endif}}' data-notificationType='inbox' data-currentCount='{member="msg_count_new"}'>{member="msg_count_new"}</span>
+				</a>
+				<div id='elFullInbox_menu' class='ipsMenu ipsMenu_wide ipsHide'>
+					<div class='ipsMenu_headerBar'>
+						<a href='{url="app=core&module=messaging&controller=messenger&do=compose" seoTemplate="messenger_compose"}' data-ipsDialog data-ipsDialog-title='{lang="compose_new"}' data-ipsDialog-remoteSubmit data-ipsDialog-flashMessage="{lang="message_sent"}" class='ipsPos_right ipsButton ipsButton_primary ipsButton_verySmall'>{lang="compose_new"}</a>
+						<h4 class='ipsType_sectionHead'>{lang="inbox"}</h4>
+					</div>
+					<div class='ipsMenu_innerContent'><ol class='ipsDataList' data-role='inboxList' data-ipsKeyNav data-ipsKeyNav-observe='return' id='elInboxContent'></ol></div>
+					<div class='ipsMenu_footerBar ipsType_center'>
+						<a href='{url="app=core&module=messaging&controller=messenger" seoTemplate="messaging"}'><i class='fa fa-bars'></i> {lang="go_to_inbox"}</a>
+					</div>
+				</div>
+			</li>
+		{{endif}}
+		{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'modcp' ) ) and \IPS\Member::loggedIn()->modPermission('can_view_reports')}}
+			<li class='cReports cUserNav_icon'>
+				<a href='{url="app=core&module=modcp&controller=modcp&tab=reports" seoTemplate="modcp_reports"}' id='elFullReports' data-ipsTooltip title='{lang="userbar_reports"}' data-ipsMenu data-ipsMenu-closeOnClick='false'>
+					<i class='fa fa-warning'></i> {{if \IPS\Member::loggedIn()->reportCount()}}<span class='ipsNotificationCount' data-notificationType='reports'>{member="reportCount()"}</span>{{endif}}
+				</a>
+				<div id='elFullReports_menu' class='ipsMenu ipsMenu_wide ipsHide'>
+					<div class='ipsMenu_headerBar'><h4 class='ipsType_sectionHead'>{lang="report_center_header"}</h4></div>
+					<div class='ipsMenu_innerContent' data-role="reportsList"></div>
+					<div class='ipsMenu_footerBar ipsType_center'>
+						<a href='{url="app=core&module=modcp&controller=modcp&tab=reports" seoTemplate="modcp_reports"}'><i class='fa fa-bars'></i> {lang="report_center_link"}</a>
+					</div>
+				</div>
+			</li>
+		{{endif}}
+		<li class='elUserNav_sep'></li>
+		<li id='cUserLink'>
+			{template="userPhoto" group="global" app="core" params="\IPS\Member::loggedIn(), 'tiny'"}
+			<a href='#elUserLink_menu' id='elUserLink' data-ipsMenu>
+				{{if isset( $_SESSION['logged_in_as_key'] )}}{lang="front_logged_in_as" sprintf="$_SESSION['logged_in_from']['name']"} {{endif}}{member="name"} <i class='fa fa-caret-down'></i>
+			</a>
+			<ul id='elUserLink_menu' class='ipsMenu ipsMenu_normal ipsHide'>
+				<li class='ipsMenu_title'>{lang="menu_content"}</li>
+				{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'members', 'front' ) )}}
+					<li class='ipsMenu_item' data-menuItem='profile'><a href='{member="url()"}' title='{lang="view_my_profile"}'>{lang="menu_profile"}</a></li>
+				{{endif}}
+				{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'messaging' ) ) and \IPS\Member::loggedIn()->members_disable_pm AND \IPS\Member::loggedIn()->members_disable_pm != 2}}
+					<li class='ipsMenu_item' data-menuItem='messages'><a href='{url="app=core&module=messaging&controller=messenger&do=enableMessenger" seoTemplate="messaging" csrf="true"}' title='{lang="go_to_messenger"}' data-confirm data-confirmMessage='{lang="messenger_disabled_msg"}'>{lang="menu_messages"}</a></li>
+				{{endif}}
+				{{if \IPS\Member::loggedIn()->group['g_attach_max'] != 0}}
+					<li class='ipsMenu_item' data-menuItem='attachments'><a href='{url="app=core&module=system&controller=attachments" seoTemplate="attachments"}'>{lang="my_attachments"}</a></li>
+				{{endif}}
+				<li class='ipsMenu_title'>{lang="menu_settings_title"}</li>
+				<li class='ipsMenu_item' data-menuItem='manageFollowed'><a href='{url="app=core&module=system&controller=followed" seoTemplate="followed_content"}'>{lang="menu_followed_content"}</a></li>
+				<li class='ipsMenu_item' id='elAccountSettingsLink' data-menuItem='settings'><a href='{url="app=core&module=system&controller=settings" seoTemplate="settings"}' title='{lang="edit_account_settings"}'>{lang="menu_settings"}</a></li>
+                <li class='ipsMenu_item' data-menuItem='ignoredUsers'><a href='{url="app=core&module=system&controller=ignore" seoTemplate="ignore"}'>{lang="menu_manage_ignore"}</a></li>
+				<li class='ipsMenu_sep'><hr></li>
+				{{if ( \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'modcp' ) ) AND \IPS\Member::loggedIn()->modPermission() ) or \IPS\Member::loggedIn()->isAdmin()}}
+					{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'modcp' ) ) AND \IPS\Member::loggedIn()->modPermission()}}
+						<li class='ipsMenu_item' data-menuItem='modcp'><a href='{url="app=core&module=modcp" seoTemplate="modcp"}'>{lang="menu_modcp"}</a></li>
+					{{endif}}
+					{{if \IPS\Member::loggedIn()->isAdmin() AND !\IPS\Settings::i()->security_remove_acp_link }}
+						<li class='ipsMenu_item' data-menuItem='admincp'><a href='{url="" base="admin"}' target='_blank'><i class='fa fa-lock'></i> {lang="menu_admincp"}</a></li>
+					{{endif}}
+					<li class='ipsMenu_sep'><hr></li>
+				{{endif}}
+				<li class='ipsMenu_item' data-menuItem='signout'>
+					<a href='{url="app=core&module=system&controller=login&do=logout" csrf="true" seoTemplate="logout"}'>
+						{{if isset( $_SESSION['logged_in_as_key'] )}}{lang="switch_to_account" sprintf="$_SESSION['logged_in_from']['name']"}{{else}}{lang="sign_out"}{{endif}}
+					</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
+{{else}}
+	<ul id='elUserNav' class='ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block'>
+		<li id='elSignInLink'>
+			<a href='{url="app=core&module=system&controller=login" seoTemplate="login" protocol="\IPS\Settings::i()->logins_over_https"}' data-ipsMenu-closeOnClick="false" data-ipsMenu id='elUserSignIn'>
+				{lang="sign_in"} &nbsp;<i class='fa fa-caret-down'></i>
+			</a>
+			{template="loginPopup" app="core" group="global" params="new \IPS\Login( \IPS\Http\Url::internal( 'app=core&module=system&controller=login', 'front', 'login', NULL, \IPS\Settings::i()->logins_over_https ) )"}
+		</li>
+		{{if \IPS\Settings::i()->allow_reg}}
+			<li>
+				<a href='{url="app=core&module=system&controller=register" seoTemplate="register"}' id='elRegisterButton' class='ipsButton ipsButton_normal ipsButton_primary'>
+					{lang="sign_up"}
+				</a>
+			</li>
+		{{endif}}
+	</ul>
+{{endif}}]]></template>
+  <css css_location="front" css_attributes="" css_path="custom" css_name="custom.css"><![CDATA[/*************************************/
+/*  xander IPB 4x Skins - xander.cl  */
+/*************************************/
+
+/******* General *******/
+body {
+  color: #595b65;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background: #ffffff;
+}
+#ipsLayout_header header {
+  border-top: 3px solid #c53c4a;
+  background-color: #ffffff;
+}
+#elSiteTitle {
+  font-family: 'Oswald', sans-serif;
+  color: #c53c4a;
+}
+#elLogo img {
+  width: 215px; 
+  height: 50px;
+}
+
+
+/******* User Nav *******/
+#elUserNav {
+  top: 6px;
+}
+#elUserNav > li > a .fa {
+  font-size: 16px;
+}
+#elUserNav > li > a {
+  color: #81808b;
+}
+.elUserNav_sep {
+  border-right: 1px solid #dcdcde;
+}
+
+
+/******* Primary Navbar *******/
+.general_nav {
+  padding: 10px 0 10px 0;
+  background: #2b2b3a;
+  -webkit-box-shadow: inset 0px 20px 16px -10px rgba(0,0,0,0.38);
+  -moz-box-shadow: inset 0px 20px 16px -10px rgba(0,0,0,0.38);
+  box-shadow: inset 0px 20px 16px -10px rgba(0,0,0,0.38);
+  border-bottom: 1px solid #333344;
+}
+.ipsNavBar_primary {
+  background: transparent;
+}
+.ipsNavBar_primary > ul > li > a {
+  padding: 12px 25px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 300;
+  border: 1px solid rgba(43, 43, 58, 0);
+  background: transparent;
+}
+.ipsNavBar_primary > ul > li > a:hover {
+  border: 1px solid #b95361;
+  background: transparent;
+}
+.ipsNavBar_primary > ul > li.ipsNavBar_active > a {
+  border: 1px solid #b95361;
+  background: transparent;
+  color: #ffffff;
+  font-weight: 400;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.ipsNavBar_primary.ipsNavBar_noSubBars > ul > li.ipsNavBar_active > a {
+  background: transparent;
+}
+
+
+/******* Secondary Navbar *******/
+.ipsNavBar_secondary {
+  background: #2b2b3a;
+}
+.ipsNavBar_primary:not(.ipsNavBar_noSubBars) > ul::before {
+  background: #2b2b3a;
+}
+.ipsNavBar_secondary > li {
+  margin: 10px 0 0 0;
+}
+.ipsNavBar_secondary > li > a {
+  padding: 9px 25px;
+  border-bottom: 0px solid transparent;
+  color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.ipsNavBar_secondary > li > a:hover {
+  color: #ffffff;
+}
+.ipsNavBar_secondary > li.ipsNavBar_active a {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+
+/******* Search *******/
+#elSearch {
+  opacity: 1;
+  margin-top: 6px;
+}
+
+
+/******* Welcome Message *******/
+.site_welcome {
+  text-align: center;
+  height: 200px;
+  padding: 20px 0;
+  background: #2b2b3a;
+}
+.site_welcome h3 {
+  margin: 16px 0;
+  color: #c53c4a;
+  font-size: 34px;
+  font-weight: 300;
+  font-family: 'Oswald', sans-serif;
+}
+.site_welcome p {
+  margin: 24px 0;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.site_welcome .reglog {
+  width: 300px; 
+  margin: auto;
+}
+.site_welcome .reglog .login, .site_welcome .reglog .register {
+  float: left;
+  display: block;
+  width: 46%; 
+  margin: 0 2%;
+  padding: 10px; 
+  border: 1px solid #b95361;
+  box-sizing: border-box;
+  color: #ffffff;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.site_welcome .reglog .login:hover, .site_welcome .reglog .register:hover {
+  background: #c53c4a;
+}
+
+
+/******* Texts *******/
+a {
+color: #3e3954;
+}
+a:hover {
+  color: #b95361;
+}
+.ipsType_sectionHead {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+.ipsType_pageTitle {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  color: #000;
+  font-size: 18px;
+  font-weight: 300;
+}
+#elProfileHeader h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+.ipsDataItem_title {
+  font-weight: 500;
+}
+.ipsTabs_item {
+  color: #000000;
+}
+.ipsTabs_activeItem {
+  color: #000000;
+}
+.ipsTabs_item:hover:not(.ipsTabs_activeItem) {
+  color: #000000;
+}
+.ipsBreadcrumb > ul > li {
+  color: #595b65;
+  font-weight: 300;
+}
+.ipsType_light strong {
+  font-weight: 300;
+}
+.cSignedOut {margin: 8px 0 0 0;}
+.ipsWidget.ipsWidget_vertical .ipsWidget_title {
+  background: transparent;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 10px;
+}
+#elBackHome {
+  color: #3e3954;
+}
+a.ipsType_sectionTitle:hover, .ipsType_sectionTitle a:hover {
+  color: #ffffff;
+}
+.ipsType_richText {
+  color: #595b65;
+}
+.ipsBreadcrumb [data-action="defaultStream"], .ipsBreadcrumb [data-action="markSiteRead"] {
+  color: #595b65;
+}
+a.ipsType_blendLinks:hover:not(.ipsType_noUnderline), .ipsType_blendLinks:not(.ipsType_noUnderline) a:hover:not(.ipsType_noUnderline) {
+  color: #b95361;
+}
+.cAuthorPane_author strong {
+  font-weight: 300;
+}
+
+
+/******* Colors *******/
+.ipsType_sectionTitle {
+  background: #5d5d6f;
+}
+.ipsTabs {
+  background: #f5f5f5;
+}
+.ipsApp .ipsField_autocomplete, .ipsApp textarea, .ipsApp input[type="text"], .ipsApp input[type="password"], .ipsApp input[type="datetime"], .ipsApp input[type="datetime-local"], .ipsApp input[type="date"], .ipsApp input[type="month"], .ipsApp input[type="time"], .ipsApp input[type="week"], .ipsApp input[type="number"], .ipsApp input[type="email"], .ipsApp input[type="url"], .ipsApp input[type="search"], .ipsApp input[type="tel"] {
+  border-color: #d8d8db;
+}
+.ipsComposeArea_editor {
+  background: #d8d8db;
+}
+.ipsApp .ipsButton_primary {
+  color: #ffffff !important;
+  background: #5d5d6f;
+}
+.ipsApp .ipsButton_alternate {
+  background: #8c8c9d;
+}
+.ipsAreaBackground {
+  background: #f5f5f5;
+}
+.ipsApp .ipsButton_important {
+  background: #b95361;
+}
+.ipsApp .ipsButton_light {
+  color: #ffffff;
+  background: #545465;
+}
+.ipsButtonBar {
+  background: #f5f5f5;
+}
+.ipsButtonBar .ipsButtonRow li > a, .ipsButtonBar .ipsButtonRow li > button, .ipsButtonBar .ipsButtonRow li > span {
+  color: #3e3954;
+  font-weight: normal;
+  background: #ffffff;
+}
+html[dir="ltr"] .ipsTags a::before, html[dir="ltr"] .ipsTag_prefix::before {
+  border-color: transparent #5d5d6f transparent transparent;
+}
+
+html[dir="ltr"] .ipsTags a:hover::before {
+  border-color: transparent #c53c4a transparent transparent;
+}
+.ipsTags a, .ipsTag_prefix {
+  background: #5d5d6f;
+}
+.ipsTags a:hover {
+  background: #c53c4a;
+}
+.ipsToggle.ipsToggle_on {
+    background: #c53c4a;
+}
+.ipsItemStatus:not(.ipsItemStatus_large) {
+  color: #b95361;
+}
+.ipsCommentUnreadSeperator {
+  border-color: #b95361;
+}
+.ipsItemStatus.ipsItemStatus_large {
+    background: #5d5d6f;
+}
+.ipsAreaBackground_dark {
+    background: #5d5d6f;
+}
+.cCalendar td.cCalendar_today, .cCalendarWeek div.cCalendar_today {
+    background: #5d5d6f;
+}
+.cCalendar td.cCalendar_nonDate {
+    background: transparent;
+}
+.ipsPageHead_special {
+  background-color: #1e1e28;
+}
+#elProfileStats {
+  background: #1f1f2a;
+}
+.ipsApp .ipsButton_positive {
+  background: #66a441;
+}
+.ipsApp .ipsNotificationCount {
+  background: #c53c4a;
+}
+.ipsApp .ipsDataItem_selected {
+  background-color: #dbdbdf;
+}
+.cMessage_active {
+  background: #dbdbdf !important;
+}
+.cToken {
+  background: #b95361;
+}
+.cToken.cToken_selected {
+  background: #b95361;
+}
+.cAnswerRate:not(.ipsType_positive):not(.ipsType_negative), .cAnswerRate:hover:not(.ipsType_positive):not(.ipsType_negative) {
+  color: #5d5d6f;
+}
+.cAnswerRating {
+  color: #5d5d6f;
+}
+.cRatingColumn_on {
+  background: #dbdbdf;
+}
+.cBestAnswerIndicator {
+  background: #b95361;
+}
+.ipsApp textarea:focus, .ipsApp input[type="text"]:focus, .ipsApp input[type="password"]:focus, .ipsApp input[type="datetime"]:focus, .ipsApp input[type="datetime-local"]:focus, .ipsApp input[type="date"]:focus, .ipsApp input[type="month"]:focus, .ipsApp input[type="time"]:focus, .ipsApp input[type="week"]:focus, .ipsApp input[type="number"]:focus, .ipsApp input[type="email"]:focus, .ipsApp input[type="url"]:focus, .ipsApp input[type="search"]:focus, .ipsApp input[type="tel"]:focus, .ipsApp input[type="color"]:focus {
+  border-color: rgba(185, 83, 97, 1);
+  -webkit-box-shadow: inset 0px 0px 5px 0px rgba(185,83,97,0.36);
+  -moz-box-shadow: inset 0px 0px 5px 0px rgba(185,83,97,0.36);
+  box-shadow: inset 0px 0px 5px 0px rgba(185,83,97,0.36);
+}
+.ipsSelectTree_selected {
+  background: #2b2b3a;
+}
+.ipsSelectTree_nodes [data-role="nodeList"] li .ipsSelectTree_item.ipsSelectTree_selected:hover:not(.ipsSelectTree_itemDisabled) {
+  background: #5d5d6f;
+}
+.ipsSelectTree_nodes [data-role="nodeList"] li .ipsSelectTree_item:hover:not(.ipsSelectTree_itemDisabled) {
+  background: #dbdbdf;
+}
+.ipsMenu {
+  -webkit-box-shadow: 0 0px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0px 2px rgba(0, 0, 0, 0.2);
+}
+.ipsMenu_headerBar, .ipsMenu_footerBar {
+  background: #ffffff;
+}
+#elChatTabs {
+  background: #5d5d6f;
+}
+.cChatRow_own {
+  background: #fafafc;
+}
+.cChatRow_own .cChatRow_user, .cChatRow_own .cChatRow_content, .cChatRow_own .cChatRow_date {
+  border-color: #fafafc;
+}
+.cPollVoteBar > span {
+  background: #b95361;
+}
+.ipsSideMenu_itemActive a, a.ipsSideMenu_itemActive, .ipsSideMenu_withChecks .ipsSideMenu_item > input[type="checkbox"]:checked ~ a, .ipsSideMenu_withRadios .ipsSideMenu_item > input[type="radio"]:checked ~ a {
+  background: #5d5d6f;
+}
+.ipsButtonRow li > a.ipsButtonRow_active, .ipsButtonRow li > button.ipsButtonRow_active {
+  background: #5d5d6f;
+}
+.ipsStreamItem_time {
+  background: #5d5d6f;
+}
+html[dir="ltr"] .ipsStream.ipsStream_withTimeline {
+  border-left: 3px solid #5d5d6f;
+}
+.cStreamFilter > li > a.cStreamFilter_active {
+    background: #5d5d6f;
+}
+
+
+
+/******* Editor *******/
+.cke_chrome {
+  -webkit-box-shadow: 0 0 0px rgba(0, 0, 0, 0.15) !important;
+  -moz-box-shadow: 0 0 0px rgba(0, 0, 0, 0.15) !important;
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0.15) !important;
+}
+
+
+/******* Footer *******/
+#ipsLayout_footer {
+ margin: 0; 
+}
+.footer_content { 
+  padding: 20px 0 0 0; 
+  background: #2b2b3a;
+}
+#ipsLayout_footer a, #ipsLayout_footer p {
+  color: #9c9da9;
+}
+.mind_footer {
+  margin: 0 20px;
+  padding: 10px 0 40px 0;
+}
+.mind_footer h3 {
+  color: #ffffff;
+  font-size: 20px; 
+  font-weight: 300; 
+  font-family: 'Oswald', sans-serif; 
+  text-transform: uppercase;
+}
+.footer_team .ipsUserPhoto {
+  border: 1px solid #ffffff;
+}
+.footer_social {
+  color: #ffffff;
+}
+.footer_social .fa {
+  padding-right: 10px;
+}
+.footer_social a:hover {
+  color: #c53c4a !important;
+}
+.about_us p {
+  line-height: 1.7;
+}
+.about_us a {
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.5);
+}
+.about_us a:hover {
+  color: #c53c4a !important;
+  border-bottom: 1px dashed #c53c4a;
+}
+#IPBCopyright a {
+  font-size: 12px;
+}
+.footer_end {
+  padding: 8px 0;
+  background: #292937;
+}
+.footer_end .ipsLayout_container {
+  position: relative;}
+
+.xander_copyright {
+  display: inline-block;
+  padding: 4px 6px;
+  color: #c53c4a !important;
+  font-size: 9px !important;
+  text-transform: uppercase;
+  position: absolute; 
+  top: 12px;
+  right: 0px;
+  z-index: 99999;
+}
+
+.footer_end a {
+  font-size: 12px;
+}
+.button_more { 
+  margin: 20px 0 0 0;
+}
+.button_more a {
+  display: inline-block;
+  padding: 4px 16px; 
+  background: #c53c4a;
+  text-align: center;
+  color: #ffffff !important;
+  opacity: 0.8;
+  text-transform: uppercase;
+  font-size: 10px !important;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.button_more a:hover {
+  opacity: 1;
+}
+.footer_minimal {
+  margin: 40px auto 0 auto;
+  text-align: center;
+}
+
+/******* Mobile Nagivation *******/
+.ipsDrawer_menu {
+  background: #2b2b3a;
+}
+.ipsDrawer_list > li > a:not(.ipsButton), .ipsDrawer_list > li:not(.ipsDrawer_itemParent) > a:not(.ipsButton) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+.ipsDrawer_itemParent > h4 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.ipsDrawer_list [data-action="back"] a {
+    background: rgba(0, 0, 0, 0.1);
+}
+#elMobileBreadcrumb {
+    background-color: #b95361;
+}
+html[dir="ltr"] #elMobileBreadcrumb::before {
+    border-color: transparent transparent #b95361 #b95361;
+}
+
+
+
+
+
+
+
+/* PHONES */
+@media screen and (max-width: 767px) {
+#elMobileNav {
+  background: #2b2b3a;
+}
+.general_nav {
+  padding: 0;
+  border: 0;
+  -webkit-box-shadow: inset 0 0 0 -0 rgba(0,0,0,0.38);
+  -moz-box-shadow: inset 0 0 0 -0 rgba(0,0,0,0.38);
+  box-shadow: inset 0 0 0 -0 rgba(0,0,0,0.38);
+}
+#ipsLayout_header header {
+  border-bottom: 1px solid #dbdbdb;
+}
+#elLogo img {margin: 6px 0;
+  width: 215px; 
+  height: 50px;
+}
+.mind_footer {
+  margin: 0;
+  padding: 10px 0 10px 0;
+}
+.mind_footer .Mblocks {
+  margin: 0 0 10px 0; 
+  padding: 0 0 10px 0;
+} 
+.button_more { 
+  margin: 30px 0 0 0;
+}
+.button_more a {
+  display: block;
+}
+.footer_social {
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid #333344;
+}
+.footer_social a {
+  display: block;
+} 
+.xander_copyright {
+  clear: both;
+  display: block;
+  padding: 4px 6px;
+  color: #c53c4a !important;
+  font-size: 10px !important;
+  text-transform: uppercase;
+  position: static; 
+  top: 12px;
+  right: 0px;
+  z-index: 99999;
+}
+  
+  
+}
+
+
+
+]]></css>
+  <resource name="default_photo.png" location="global" path="/" user_edited="1">iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAIAAACzY+a1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTE1QjNCOTg2MDM1MTFFNjk3MTk4RjIwMDk2MzVGQUUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MTE1QjNCOTk2MDM1MTFFNjk3MTk4RjIwMDk2MzVGQUUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxMTVCM0I5NjYwMzUxMUU2OTcxOThGMjAwOTYzNUZBRSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxMTVCM0I5NzYwMzUxMUU2OTcxOThGMjAwOTYzNUZBRSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlOaILYAAAkOSURBVHja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</resource>
+  <field sc_key="ajax_pagination" sc_type="YesNo" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="1" sc_tab_key="custom" sc_show_in_vse="1" sc_title="themesetting_ajax_pagination" sc_order="9" sc_condition="">1</field>
+  <field sc_key="alternate_button" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#2d4760" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_alternate_button" sc_order="3" sc_condition="">#2d4760</field>
+  <field sc_key="alternate_button_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_alternate_button_font" sc_order="4" sc_condition="">#ffffff</field>
+  <field sc_key="area_background" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ebebeb" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_area_background" sc_order="10" sc_condition="">#ebebeb</field>
+  <field sc_key="area_background_dark" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#283a4a" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_area_background_dark" sc_order="11" sc_condition="">#283a4a</field>
+  <field sc_key="area_background_light" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#f5f5f5" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_area_background_light" sc_order="12" sc_condition="">#f5f5f5</field>
+  <field sc_key="area_background_reset" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_area_background_reset" sc_order="13" sc_condition="">#ffffff</field>
+  <field sc_key="button_bar" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#3c6994" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_button_bar" sc_order="13" sc_condition="">#3c6994</field>
+  <field sc_key="enable_fluid_width" sc_type="YesNo" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;},{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="0" sc_tab_key="custom" sc_show_in_vse="1" sc_title="themesetting_enable_fluid_width" sc_order="6" sc_condition="">0</field>
+  <field sc_key="fluid_width_size" sc_type="Number" sc_multiple="0" sc_content="[]" sc_default="95" sc_tab_key="custom" sc_show_in_vse="1" sc_title="themesetting_fluid_width_size" sc_order="7" sc_condition="">95</field>
+  <field sc_key="footer_text" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#333333" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_footer_text" sc_order="9" sc_condition="">#333333</field>
+  <field sc_key="header" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#3c6994" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_header" sc_order="2" sc_condition="">#3c6994</field>
+  <field sc_key="important_button" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#37848b" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_important_button" sc_order="7" sc_condition="">#37848b</field>
+  <field sc_key="important_button_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_important_button_font" sc_order="8" sc_condition="">#ffffff</field>
+  <field sc_key="item_status" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#3c6994" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_item_status_active" sc_order="24" sc_condition="">#3c6994</field>
+  <field sc_key="js_include" sc_type="Radio" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;head&quot;,&quot;value&quot;:&quot;Inside the &amp;lt;head&amp;gt;&quot;},{&quot;key&quot;:&quot;footer&quot;,&quot;value&quot;:&quot;Just before &amp;lt;\/body&amp;gt; tag&quot;}]" sc_default="head" sc_tab_key="custom" sc_show_in_vse="0" sc_title="themesetting_js_location" sc_order="8" sc_condition="">head</field>
+  <field sc_key="light_button" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#e5e5e5" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_light_button" sc_order="9" sc_condition="">#e5e5e5</field>
+  <field sc_key="light_button_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#333333" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_light_button_font" sc_order="10" sc_condition="">#333333</field>
+  <field sc_key="link" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#3c6994" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_link" sc_order="3" sc_condition="">#3c6994</field>
+  <field sc_key="link_hover" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ad1457" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_link_hover" sc_order="4" sc_condition="">#ad1457</field>
+  <field sc_key="main_nav" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#304d66" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_main_nav" sc_order="3" sc_condition="">#304d66</field>
+  <field sc_key="main_nav_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_main_nav_font" sc_order="4" sc_condition="">#ffffff</field>
+  <field sc_key="main_nav_tab" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#f5f5f5" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_main_nav_active" sc_order="5" sc_condition="">#f5f5f5</field>
+  <field sc_key="main_nav_tab_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#333333" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_main_nav_active_font" sc_order="6" sc_condition="">#333333</field>
+  <field sc_key="mentions" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#3084c4" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_mentions" sc_order="26" sc_condition="">#3084c4</field>
+  <field sc_key="mobile_back" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#222222" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_mobile_back" sc_order="30" sc_condition="">#222222</field>
+  <field sc_key="mobile_back_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_mobile_back_font" sc_order="31" sc_condition="">#ffffff</field>
+  <field sc_key="moderated" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#f7edf1" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_moderated" sc_order="15" sc_condition="">#f7edf1</field>
+  <field sc_key="moderated_light" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#fcf7f9" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_moderated_light" sc_order="16" sc_condition="">#fcf7f9</field>
+  <field sc_key="moderated_text" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#880e4f" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_moderated_text" sc_order="17" sc_condition="">#880e4f</field>
+  <field sc_key="moderated_text_light" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#a4768f" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_moderated_text_light" sc_order="18" sc_condition="">#a4768f</field>
+  <field sc_key="normal_button" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#417ba3" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_normal_button" sc_order="5" sc_condition="">#417ba3</field>
+  <field sc_key="normal_button_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_normal_button_font" sc_order="6" sc_condition="">#ffffff</field>
+  <field sc_key="notification_bubble" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#ad1457" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_notification_bubble" sc_order="25" sc_condition="">#ad1457</field>
+  <field sc_key="page_background" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ebeef2" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_page_background" sc_order="1" sc_condition="">#ebeef2</field>
+  <field sc_key="poll_bar" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#2a94de" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_poll_bar" sc_order="19" sc_condition="">#2a94de</field>
+  <field sc_key="post_highlight" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#FCF9F0" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_post_highlight" sc_order="28" sc_condition="">#fcf9f0</field>
+  <field sc_key="post_highlight_border" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#F7DF97" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesettings_post_highlight_border" sc_order="29" sc_condition="">#f7df97</field>
+  <field sc_key="prefix" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ad1457" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_prefix" sc_order="8" sc_condition="">#ad1457</field>
+  <field sc_key="price" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#c62828" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_price" sc_order="10" sc_condition="">#c62828</field>
+  <field sc_key="primary_button" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#37474f" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_primary_button" sc_order="1" sc_condition="">#37474f</field>
+  <field sc_key="primary_button_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_primary_button_font" sc_order="2" sc_condition="">#ffffff</field>
+  <field sc_key="profile_header" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#262e33" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_profile_header" sc_order="7" sc_condition="">#262e33</field>
+  <field sc_key="rating_hover" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#2a94de" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_rating_hover" sc_order="20" sc_condition="">#2a94de</field>
+  <field sc_key="rating_on" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ff9800" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_rating_on" sc_order="21" sc_condition="">#ff9800</field>
+  <field sc_key="recaptcha_theme" sc_type="other" sc_multiple="0" sc_content="return new \IPS\Helpers\Form\Radio( &quot;core_theme_setting_title_{$row['sc_id']}&quot;, $value, FALSE, array( 'options' =&gt; array(&#13;&#10;&#9;&#9;&#9;'clean'&#9;&#9;&#9;=&gt; &quot;&lt;img src='&quot; . $theme-&gt;resource( 'recaptcha/clean.png', 'core' ) . &quot;' alt='clean'&gt;&quot;,&#13;&#10;&#9;&#9;&#9;'red'&#9;&#9;&#9;=&gt; &quot;&lt;img src='&quot; . $theme-&gt;resource( 'recaptcha/red.png', 'core' ) . &quot;' alt='clean'&gt;&quot;,&#13;&#10;&#9;&#9;&#9;'white'&#9;&#9;&#9;=&gt; &quot;&lt;img src='&quot; . $theme-&gt;resource( 'recaptcha/white.png', 'core' ) . &quot;' alt='clean'&gt;&quot;,&#13;&#10;&#9;&#9;&#9;'blackglass'&#9;=&gt; &quot;&lt;img src='&quot; . $theme-&gt;resource( 'recaptcha/blackglass.png', 'core' ) . &quot;' alt='clean'&gt;&quot;,&#13;&#10;&#9;&#9;&#9;), 'parse' =&gt; 'raw' ), NULL, NULL, NULL, 'theme_setting_' . $row['sc_key'] );" sc_default="white" sc_tab_key="custom" sc_show_in_vse="0" sc_title="recaptcha_theme" sc_order="12" sc_condition="return \IPS\Settings::i()-&gt;bot_antispam_type === 'recaptcha';"/>
+  <field sc_key="recaptcha2_theme" sc_type="other" sc_multiple="0" sc_content="return new \IPS\Helpers\Form\Radio( &quot;core_theme_setting_title_{$row['sc_id']}&quot;, $value, FALSE, array( 'options' =&gt; array(&#13;&#10;&#9;&#9;&#9;'light'&#9;&#9;&#9;=&gt; &quot;&lt;img src='&quot; . $theme-&gt;resource( 'recaptcha2/light.png', 'core' ) . &quot;' alt='light'&gt;&quot;,&#13;&#10;&#9;&#9;&#9;'dark'&#9;&#9;&#9;=&gt; &quot;&lt;img src='&quot; . $theme-&gt;resource( 'recaptcha2/dark.png', 'core' ) . &quot;' alt='dark'&gt;&quot;,&#13;&#10;&#9;&#9;&#9;), 'parse' =&gt; 'raw' ), NULL, NULL, NULL, 'theme_setting_' . $row['sc_key'] );" sc_default="light" sc_tab_key="custom" sc_show_in_vse="0" sc_title="recaptcha2_theme" sc_order="11" sc_condition="return \IPS\Settings::i()-&gt;bot_antispam_type === 'recaptcha2';"/>
+  <field sc_key="responsive" sc_type="YesNo" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;},{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="1" sc_tab_key="custom" sc_show_in_vse="0" sc_title="themesetting_responsive" sc_order="1" sc_condition="">1</field>
+  <field sc_key="rounded_photos" sc_type="YesNo" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;},{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="1" sc_tab_key="custom" sc_show_in_vse="0" sc_title="themesetting_rounded_photos" sc_order="2" sc_condition="">0</field>
+  <field sc_key="secondary_title" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#3d5e78" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_secondary_title" sc_order="7" sc_condition="">#3d5e78</field>
+  <field sc_key="secondary_title_font" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#ffffff" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_secondary_title_font" sc_order="8" sc_condition="">#ffffff</field>
+  <field sc_key="section_title" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#304d66" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_section_title" sc_order="5" sc_condition="">#304d66</field>
+  <field sc_key="section_title_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_section_title_font" sc_order="6" sc_condition="">#ffffff</field>
+  <field sc_key="selected" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ebf4f9" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_selected" sc_order="9" sc_condition="">#ebf4f9</field>
+  <field sc_key="sidebar_position" sc_type="Select" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;left&quot;,&quot;value&quot;:&quot;Left&quot;},{&quot;key&quot;:&quot;right&quot;,&quot;value&quot;:&quot;Right&quot;}]" sc_default="right" sc_tab_key="custom" sc_show_in_vse="0" sc_title="themesetting_sidebar_position" sc_order="3" sc_condition="">right</field>
+  <field sc_key="sidebar_responsive" sc_type="YesNo" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="1" sc_tab_key="custom" sc_show_in_vse="1" sc_title="themesetting_sidebar_responsive" sc_order="4" sc_condition="">1</field>
+  <field sc_key="step_background" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ad1457" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_step_background" sc_order="22" sc_condition="">#ad1457</field>
+  <field sc_key="tab_background" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#3d648a" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_tabs_background" sc_order="27" sc_condition="">#3d648a</field>
+  <field sc_key="text_color" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#525252" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_text_color" sc_order="1" sc_condition="">#525252</field>
+  <field sc_key="text_light" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#9c9c9c" sc_tab_key="textcolors" sc_show_in_vse="0" sc_title="themesetting_text_light" sc_order="2" sc_condition="">#9c9c9c</field>
+  <field sc_key="timeline_color" sc_type="Color" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}]" sc_default="#4d4d4d" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="activity_stream_timeline" sc_order="23" sc_condition="">#4d4d4d</field>
+  <field sc_key="very_light_button" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#ffffff" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_very_light_button" sc_order="11" sc_condition="">#ffffff</field>
+  <field sc_key="very_light_button_font" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#333333" sc_tab_key="buttoncolors" sc_show_in_vse="0" sc_title="themesetting_very_light_button_font" sc_order="12" sc_condition="">#333333</field>
+  <field sc_key="widget_title_bar" sc_type="Color" sc_multiple="0" sc_content="[]" sc_default="#3c6994" sc_tab_key="frontendcolors" sc_show_in_vse="0" sc_title="themesetting_widget_title_bar" sc_order="14" sc_condition="">#3c6994</field>
+ </app>
+ <app key="forums" version="101053">
+  <field sc_key="forum_layout" sc_type="Select" sc_multiple="0" sc_content="[{&quot;key&quot;:&quot;grid&quot;,&quot;value&quot;:&quot;Grid View&quot;},{&quot;key&quot;:&quot;traditional&quot;,&quot;value&quot;:&quot;Traditional List&quot;}]" sc_default="traditional" sc_tab_key="custom" sc_show_in_vse="1" sc_title="themesetting_forum_layout" sc_order="5" sc_condition="">traditional</field>
+ </app>
+ <app key="cms" version="101053"/>
+ <app key="chat" version="101053"/>
+ <app key="calendar" version="101053"/>
+ <language/>
+</theme>
